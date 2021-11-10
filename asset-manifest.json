@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bushera/firstreactweb.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bushera/firstreactweb.git/static/js/main.282bec46.chunk.js",
-    "main.js.map": "/bushera/firstreactweb.git/static/js/main.282bec46.chunk.js.map",
-    "runtime-main.js": "/bushera/firstreactweb.git/static/js/runtime-main.5957d21b.js",
-    "runtime-main.js.map": "/bushera/firstreactweb.git/static/js/runtime-main.5957d21b.js.map",
-    "static/js/2.b73d99c6.chunk.js": "/bushera/firstreactweb.git/static/js/2.b73d99c6.chunk.js",
-    "static/js/2.b73d99c6.chunk.js.map": "/bushera/firstreactweb.git/static/js/2.b73d99c6.chunk.js.map",
-    "static/js/3.d048729f.chunk.js": "/bushera/firstreactweb.git/static/js/3.d048729f.chunk.js",
-    "static/js/3.d048729f.chunk.js.map": "/bushera/firstreactweb.git/static/js/3.d048729f.chunk.js.map",
-    "index.html": "/bushera/firstreactweb.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/bushera/firstreactweb.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b73d99c6.chunk.js.LICENSE.txt": "/bushera/firstreactweb.git/static/js/2.b73d99c6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/bushera/firstreactweb.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/firstreactweb/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/firstreactweb/static/js/main.282bec46.chunk.js",
+    "main.js.map": "/firstreactweb/static/js/main.282bec46.chunk.js.map",
+    "runtime-main.js": "/firstreactweb/static/js/runtime-main.242c48de.js",
+    "runtime-main.js.map": "/firstreactweb/static/js/runtime-main.242c48de.js.map",
+    "static/js/2.b73d99c6.chunk.js": "/firstreactweb/static/js/2.b73d99c6.chunk.js",
+    "static/js/2.b73d99c6.chunk.js.map": "/firstreactweb/static/js/2.b73d99c6.chunk.js.map",
+    "static/js/3.d048729f.chunk.js": "/firstreactweb/static/js/3.d048729f.chunk.js",
+    "static/js/3.d048729f.chunk.js.map": "/firstreactweb/static/js/3.d048729f.chunk.js.map",
+    "index.html": "/firstreactweb/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/firstreactweb/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b73d99c6.chunk.js.LICENSE.txt": "/firstreactweb/static/js/2.b73d99c6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/firstreactweb/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5957d21b.js",
+    "static/js/runtime-main.242c48de.js",
     "static/js/2.b73d99c6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.282bec46.chunk.js"
